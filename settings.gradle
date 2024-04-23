@@ -1,0 +1,2 @@
+rootProject.name = "HydroAppPrueba"
+include ':app'
